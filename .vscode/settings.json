@@ -1,0 +1,4 @@
+{
+    "DockerRun.DisableAutoGenerateConfig": true,
+    "java.configuration.updateBuildConfiguration": "interactive"
+}
