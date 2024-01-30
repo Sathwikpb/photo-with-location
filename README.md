@@ -36,4 +36,4 @@ We welcome contributions! Feel free to open issues or submit pull requests.
 
 ## License
 
-This project is licensed under the [Your License Name] - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the Creative Common
